@@ -7,3 +7,6 @@ Repo for testing things related to OF-1004
 
 Test section
 
+# Second new section
+
+This was added on first-new-branch
