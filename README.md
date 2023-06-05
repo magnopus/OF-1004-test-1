@@ -18,4 +18,13 @@ This was added on second-new-branch.
 
 This is for testing leaving a comment on a PR and tagging a user
 
+# Fourth section
+
+Added on third-branch
+
+Checking new username and email in patch messages
+
+
+
+
 
