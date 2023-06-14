@@ -25,6 +25,12 @@ Added on third-branch
 Checking new username and email in patch messages
 
 
+# Fifth Section
+
+Added on email-testing
+
+Checking if the commit is blocked with my email address in the commit
+
 
 
 
